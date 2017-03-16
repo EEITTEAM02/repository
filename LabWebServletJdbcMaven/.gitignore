@@ -1,4 +1,10 @@
 /.settings/
+<<<<<<< HEAD
 /target/
 /.classpath
 /.project
+=======
+/.classpath
+/.project
+/target/
+>>>>>>> branch 'master' of https://github.com/EEITTEAM02/repository.git
