@@ -13,15 +13,6 @@
 
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
-<<<<<<< HEAD
-HI
-World!!!
-eeit9330
-TEST!!!!!
-123456
-3333
-=======
 
->>>>>>> branch 'master' of https://github.com/EEITTEAM02/repository.git
 </body>
 </html>
